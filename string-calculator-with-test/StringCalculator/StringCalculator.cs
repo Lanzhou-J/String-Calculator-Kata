@@ -7,8 +7,14 @@ namespace String.Calculator
         public int Calculator(string input)
         {
             //throw new NotImplementedException("Not implemented.");
-            int result = int.Parse(input);
-            return result;
+            if (input == "")
+            {
+                return 0;
+            }
+            else {
+                int result = int.Parse(input);
+                return result;
+            }
         }
     }
 }
