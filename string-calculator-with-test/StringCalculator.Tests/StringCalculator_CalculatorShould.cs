@@ -20,5 +20,15 @@ namespace String.UnitTests.Calculator
 
             Assert.Equal(typeof(Int32).Name, result.GetType().Name);
         }
+
+        [Theory]
+        [InlineData("1")]
+        [InlineData("3")]
+        public void Calculator_InputString_ReturnCorrespondingNumberInt(string input)
+        {
+            var result = _stringCalculator.Calculator(input);
+
+            Assert.Equal(int.Parse(input),result);
+        }
     }
 }

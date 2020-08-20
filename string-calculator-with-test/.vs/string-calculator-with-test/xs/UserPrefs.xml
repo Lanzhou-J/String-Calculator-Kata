@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{F3613916-2DA5-4423-B2E7-9A8B9E35E527}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringCalculator/StringCalculator.cs">
+    <Files>
+      <File FileName="StringCalculator.Tests/StringCalculator_CalculatorShould.cs" Line="31" Column="51" />
+      <File FileName="StringCalculator/StringCalculator.cs" Line="10" Column="20" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
