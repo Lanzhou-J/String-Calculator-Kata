@@ -1,0 +1,9 @@
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/bin/Debug/netstandard2.0/StringCalculator.deps.json
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/bin/Debug/netstandard2.0/StringCalculator.dll
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/bin/Debug/netstandard2.0/StringCalculator.pdb
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/obj/Debug/netstandard2.0/StringCalculator.csprojAssemblyReference.cache
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/obj/Debug/netstandard2.0/StringCalculator.AssemblyInfoInputs.cache
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/obj/Debug/netstandard2.0/StringCalculator.AssemblyInfo.cs
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/obj/Debug/netstandard2.0/StringCalculator.csproj.CoreCompileInputs.cache
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/obj/Debug/netstandard2.0/StringCalculator.dll
+/Users/lanzhou.jiang/Desktop/string_calculator/string-calculator-with-test/StringCalculator/obj/Debug/netstandard2.0/StringCalculator.pdb
